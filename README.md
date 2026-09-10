@@ -192,41 +192,15 @@ STATUS: 🚀 KEEP BUILDING
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Uzair-develops&show_icons=true&theme=transparent&hide_border=true"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-develops&layout=compact&theme=transparent&hide_border=true"
-height="180"
-/>
-
-</div>
-
-
----
-
 
 # 🐍 CONTRIBUTION MATRIX
 
+
 <div align="center">
 
-```text
-     GITHUB CONTRIBUTIONS
+<img src="https://raw.githubusercontent.com/Uzair-develops/Uzair-develops/output/github-contribution-grid-snake-dark.svg"/>
 
-     █ █ █ █ █ █ █ █ █
-      █ █ █ █ █ █ █
-     █ █ █ █ █ █ █ █
-        █ █ █ █
-     █ █ █ █ █ █ █
-
-     KEEP BUILDING. 🚀
-```
+</div>
 
 </div>
 
